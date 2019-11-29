@@ -1,7 +1,15 @@
 hello world
+<<<<<<< HEAD
 11131
 branch master
 222200
 =======
 5232efr32
 3242432
+=======
+11111
+branch master
+222200
+branch
+5232efr32
+>>>>>>> br2
