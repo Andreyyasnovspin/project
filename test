@@ -1,4 +1,9 @@
-hello
-1111
-branch br1
-523232
+hello world
+11111
+<<<<<<< HEAD
+branch master
+222200
+=======
+branch br2
+5232efr32
+>>>>>>> br1
